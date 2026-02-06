@@ -13,7 +13,7 @@ body {
 .qr-code-container {
   width: 290px;
   background-color: hsl(0, 0%, 100%);
-  padding: 16px 16px 40px 16px;
+  padding: 16px 16px 30px 16px;
   border-radius: 20px;
 }
 
@@ -29,11 +29,14 @@ body {
 
 .text-container {
   text-align: center;
-  padding: 0 16px;
+  padding: 0 22px;
+  font-size: 15px;
 }
 
-h3 {
+h1 {
   color: hsl(218, 44%, 22%);
+  font-weight: 700;
+  font-size: 20px;
 }
 
 p {

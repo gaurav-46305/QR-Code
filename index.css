@@ -11,7 +11,7 @@ body {
 }
 
 .qr-code-container {
-  width: 320px;
+  width: 290px;
   background-color: hsl(0, 0%, 100%);
   padding: 16px 16px 30px 16px;
   border-radius: 20px;
@@ -22,7 +22,7 @@ body {
   background-position: center;
   background-repeat: no-repeat;
   background-size: contain;
-  height: 320px;
+  height: 290px;
   width: 100%;
   border-radius: 10px;
 }
